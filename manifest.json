@@ -1,0 +1,7 @@
+{
+"name": "Eventi",
+"short_name": "Eventi",
+"background_color": "#3792cb",
+"theme_color": "#1c4966",
+"display": "standalone"
+}
