@@ -1,0 +1,98 @@
+/* ----- Nav Bar CSS ----- */
+#nav-mobile {
+  float: right;
+  display: flex;
+}
+
+#nav-item a {
+  font-family: "Source Code Pro", monospace;
+}
+/* ----- End Nav Bar ----- */
+
+/* ----- Sign Up Modal CSS ----- */
+#modal-signup {
+  background-color: #ffedd1;
+}
+
+#modal-signup div h4 {
+  font-family: "Source Code Pro", monospace;
+}
+
+#modal-signup div form div label {
+  font-family: "Roboto", sans-serif;
+}
+/* ----- End Sign Up Modal ----- */
+
+/* ----- Login Modal CSS ----- */
+#modal-login {
+  background-color: #ffedd1;
+}
+
+#modal-login div h4 {
+  font-family: "Source Code Pro", monospace;
+}
+
+#modal-login div form div label {
+  font-family: "Roboto", sans-serif;
+}
+/* ----- End Login Modal ----- */
+
+/* ----- Account Info Modal CSS ----- */
+#modal-account {
+  background-color: #ffedd1;
+}
+
+#modal-account div h4 {
+  font-family: "Source Code Pro", monospace;
+}
+
+#modal-account div div {
+  font-family: "Roboto", sans-serif;
+}
+/* ----- End Account Modal Info ----- */
+
+/* ----- Create Event Modal CSS ----- */
+#modal-create {
+  background-color: #ffedd1;
+}
+
+#modal-create div h4 {
+  font-family: "Source Code Pro", monospace;
+}
+
+#modal-create div form div label {
+  font-family: "Roboto", sans-serif;
+}
+/* ----- End Create Event Modal ----- */
+
+/* ----- Event Content CSS ----- */
+#event-title {
+  font-family: "Source Code Pro", monospace;
+}
+
+#event-content {
+  font-family: "Roboto", sans-serif;
+}
+/* ----- End Event Content ----- */
+.carousel .carousel-item {
+  width: 425px !important;}
+
+  /* footer edits */
+  body {
+    display: flex;
+    color: rgb(175, 152, 155);
+    min-height: 100vh;
+    flex-direction: column;
+  }
+  footer-wrap {
+    width: 100%;
+    font-size: 14px;
+  }
+    .page-footer{
+      background-color: #9b7b7b;
+    }
+    
+  main {
+    flex: 1 0 auto;
+  }
+ 
